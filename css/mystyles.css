@@ -18,10 +18,13 @@ body{
     background-color: rgb(226, 226, 226);
 }
 img{
-    width: 300px;
+    width: 350px;
+    float: left;
 }
 iframe{
-    width: 420px;
+    width: 700px;
+    height: 400px;
+    float: right;
 }
 .anchor{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
