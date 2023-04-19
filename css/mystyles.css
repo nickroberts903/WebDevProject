@@ -22,3 +22,9 @@ iframe{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: hotpink;
 }
+.header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
