@@ -2,12 +2,15 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: darkorange;
     font-size: 22px;
+    text-align: center;
 }
 body{
     background-color: rgb(226, 226, 226);
+    text-align: center;
 }
 img{
     width: 300px;
+    text-align: center;
 }
 iframe{
     width: 420px;
@@ -27,4 +30,5 @@ iframe{
     background-color: black;
     color: white;
     line-height: 100px;
+    text-align: center;
 }
